@@ -2,8 +2,6 @@
 <h3 align="center">As Senior Unity game developer. I'm working in a company this title. I'm develop Hyper casual and indie games (2D & 3D).
 You can view sample works here!</h3>
 
-- 📫 How to reach me **tarikkaydinn@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tarık-aydın-22a746153" target="blank"><img align="center" 
