@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarık Aydın</h1>
-<h3 align="center">As Senior Unity game developer. I'm working in a company this title. I'm develop Hyper casual and indie games (2D & 3D).
+<h3 align="center">As Mid Unity game developer. I'm working in a company this title. I'm develop Hyper casual and indie games (2D & 3D).
 You can view sample works here!</h3>
 
 <h3 align="left">Connect with me:</h3>
